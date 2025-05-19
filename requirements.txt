@@ -1,0 +1,4 @@
+langchain>=0.0.230
+faiss-cpu                  # ou faiss-gpu, se tiver GPU
+langchain-ollama           # no seu caso, para OllamaEmbeddings e LLM
+python-dotenv              
