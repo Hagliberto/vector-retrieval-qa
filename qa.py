@@ -1,5 +1,4 @@
 # qa.py
-
 from langchain_community.vectorstores import FAISS
 from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain_ollama.llms import OllamaLLM
