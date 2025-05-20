@@ -115,25 +115,37 @@ vector-retrieval-qa/
   - Outros: `sentence-transformers/all-mpnet-base-v2`, etc.
 - **LLM**:  
   - Ollama Llama3.2 (`llama3.2:latest`)  
-  - Substitua por outro (OpenAI, HuggingFace) se desejar.
+
 
 ---
 
 ## 🎥 Demonstração em vídeo
 
-- Duração máxima: **3 minutos**  
-- Pontos-chave:  
   1. Execução de `ingest.py` e criação do índice.  
   2. Execução de `qa.py` com perguntas e respostas.  
   3. Breve tour pelo README e estrutura de pastas.
 
-Adicione o link para o vídeo aqui:  
+Apresentação:  
 ```
-https://youtu.be/SEU_VIDEO_DEMO
+Parte 1: https://www.loom.com/share/43bcf623b7c84edcbf0df6bb55a7d2c5?sid=ae8664f8-efdd-407d-b8cf-6cfcb6b758b9
+
+0:00
+Introdução ao Projeto
+0:40
+Configuração do Arquivo de Ingestão
+1:28
+Processamento e Indexação
+2:36
+Execução do Arquivo de Consulta
+
+Parte 2: https://www.loom.com/share/df280efff8fe41a680037985d491879a?sid=f62e86e5-5b5e-4311-a5be-9102703341c9
+0:00
+Interação com o Usuário
+
 ```
 
 ---
 
 ## 📄 Licença
 
-MIT License © SEU NOME
+MIT License © Hagliberto
